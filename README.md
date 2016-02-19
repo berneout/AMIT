@@ -3,11 +3,9 @@
 A thought experiment.
 
 The Afferoish MIT License is the MIT License with an extra requirement:
-In addition to requiring those who distribute copies of the software to
-reproduce copyright and permission notices, those using the licensed
-software as part of hosted services have to reproduce the copyright
-notice and permission notice on a World Wide Web page accessible to
-remote users.
+If you use the licensed software as part of a hosted service, you have
+to reproduce the copyright notice and permission notice on a World Wide
+Web page accessible to users.
 
 The idea, and most of the new language, come from the GNU Affero Public
 License Version 3 (AGPL-3.0). The AGPL extends the sharing requirement
