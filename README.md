@@ -2,7 +2,7 @@
 
 A thought experiment.
 
-The Afferoish MIT License is the MIT License, with an extra requirement:
+The Afferoish MIT License is the MIT License with an extra requirement:
 In addition to requiring those who distribute copies of the software to
 reproduce copyright and permission notices, those using the licensed
 software as part of hosted services have to reproduce the copyright
